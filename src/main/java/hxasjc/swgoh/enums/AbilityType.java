@@ -1,0 +1,10 @@
+package hxasjc.swgoh.enums;
+
+public enum AbilityType {
+    AbilityType_DEFAULT,
+    ABILITYACTIVATED,
+    ABILITYPASSIVE,
+    ABILITYREINFORCEMENT,
+    ABILITYACTIVATEDALLYSELECT,
+    ABILITYHARDWARE
+}

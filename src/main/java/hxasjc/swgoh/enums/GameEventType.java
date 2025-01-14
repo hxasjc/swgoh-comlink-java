@@ -1,0 +1,19 @@
+package hxasjc.swgoh.enums;
+
+public enum GameEventType {
+    GameEventType_DEFAULT,
+    SCHEDULED,
+    KEYCARD,
+    PROGRESSION,
+    MODS,
+    PVPEVENT,
+    ECONOMYEVENT,
+    TERRITORYMAPEVENT,
+    TERRITORYWAREVENT,
+    TERRITORYBATTLEEVENT,
+    TERRITORYTOURNAMENTEVENT,
+    ARCADERAID,
+    SEASON,
+    LIFECYCLED,
+    CONQUESTEVENT
+}
